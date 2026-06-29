@@ -10,8 +10,8 @@ HR & Administrative Professional | Business Analytics Student
 <a href="mailto:ashleyhatch8@outlook.com">ashleyhatch8@outlook.com</a>
 | Idaho Falls, ID
 | (315) 879-5119
-| <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
-| <a href="https://github.com/YOUR-GITHUB">GitHub</a>
+| <a href="https://linkedin.com/in/ashleyhatch511">LinkedIn</a>
+| <a href="https://github.com/ahatch-byui/portfolio.git">GitHub</a>
 </div>
 
 
