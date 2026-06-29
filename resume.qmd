@@ -1,89 +1,128 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ashley Hatch's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Ashley Hatch
+HR & Administrative Professional | Business Analytics Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:ashleyhatch8@outlook.com">ashleyhatch8@outlook.com</a>
+| Idaho Falls, ID
+| (315) 879-5119
+| <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+| <a href="https://github.com/YOUR-GITHUB">GitHub</a>
 </div>
 
 
-## Currently
+## Profile
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Organized and detail-oriented administrative professional with experience supporting executive leadership, coordinating office operations, improving processes, and providing exceptional customer service. Currently pursuing a Bachelor's degree in Business Analytics while building expertise in human resources, business operations, and data-driven decision making.
 
 
-### Research interests
+### Areas of Expertise
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Human Resources • Executive Administration • Office Management • Employee Support • Process Improvement • Business Analytics • Customer Service • Project Coordination • Data Analysis • Microsoft Office Suite • Excel • SQL • Python • R
+
+
+### Professional Interests
+
+Executive Assistance, Human Resources, Operations, Employee Experience, Business Process Improvement, Organizational Development, Data Analytics
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected July 2026`
+__Brigham Young University–Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Bachelor of Science, Business Analytics
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- Relevant Coursework:
+  - Data Analytics
+  - Business Statistics
+  - Database Management
+  - Financial Management
+  - Business Intelligence
+  - Forecasting & Modeling
 
 
+## Professional Experience
 
-## Publications
+`2025 - Present`
+__Founder & Consultant__, Experience Design Consulting
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Partner with organizations to improve employee experience and workplace processes.
+- Develop systems that increase operational efficiency and organizational effectiveness.
+- Create documentation, workflows, and process improvements for business clients.
 
-### Journals
+`Sept 2025 - May 2026`
+__Executive Office Manager__, Activated Insights
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Managed executive calendars and daily administrative operations.
+- Coordinated meetings, travel, and company communications.
+- Supported executive leadership with confidential administrative tasks.
+- Improved office organization and workflow efficiency.
 
-`1669`
-Lectiones opticæ.
+`Jan 2025 - May 2025`
+__Director of Experience Design__
 
-etc. etc. etc.
+- Designed initiatives focused on employee engagement and customer experience.
+- Coordinated projects across multiple teams.
+- Improved internal processes and communication.
 
-### Patents
+`Jan 2024 - Jan 2025`
+__Administrative Assistant__
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Managed scheduling, customer communication, and office documentation.
+- Assisted leadership with reporting and administrative projects.
+- Maintained accurate records and supported day-to-day office operations.
 
+`2022 - 2023`
+__Infant & Toddler Teacher__
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Created engaging learning environments.
+- Built strong relationships with families.
+- Managed classroom organization and daily documentation.
 
 
-<!-- ### Footer
+## Projects
 
-Last updated: May 2013 -->
+### Business Analytics
+
+`2026`
+
+- Built forecasting models using Excel and statistical methods.
+- Developed SQL databases and business reports.
+- Performed data analysis using R and Python.
+- Created interactive dashboards and visualizations.
+
+
+### HR & Operations
+
+`2025-2026`
+
+- Designed employee experience improvement strategies.
+- Created operational workflows and process documentation.
+- Assisted with administrative process optimization.
+
+
+## Technical Skills
+
+- Microsoft Excel
+- Microsoft Office
+- SQL
+- Python
+- R
+- Power BI 
+- GitHub
+- Database Management
+- Data Visualization
+
+
+## Leadership
+
+- Employee onboarding support
+- Team collaboration
+- Process improvement initiatives
+- Executive support
+- Customer relationship management
